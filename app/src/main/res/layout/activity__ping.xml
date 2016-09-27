@@ -23,6 +23,7 @@
         android:layout_height="20dp"
         android:layout_below="@id/text"
         android:layout_centerHorizontal="true"
+        android:text="click me"
         />
 
 
