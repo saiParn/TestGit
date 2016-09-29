@@ -11,7 +11,29 @@
     tools:context="th.co.creativeme.testgit.activity.MainActivity">
 
     <TextView
+        android:id="@+id/hello"
+        android:layout_centerInParent="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World!"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hello"
+        android:layout_centerHorizontal="true"
+        android:text="test"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="55555555"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="5555555555555555555555555555555"/>
 </RelativeLayout>
+
