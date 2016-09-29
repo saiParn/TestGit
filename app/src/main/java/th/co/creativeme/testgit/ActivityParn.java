@@ -14,5 +14,6 @@ public class ActivityParn extends AppCompatActivity {
         setContentView(R.layout.activity_parn);
 
         Log.i(TAG, "Show Log");
+        Log.i(TAG, "Show Log2");
     }
 }
