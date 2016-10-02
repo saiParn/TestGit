@@ -18,6 +18,13 @@ public class ActivityParn extends AppCompatActivity {
         Log.i(TAG, "Show Log3");
         Log.i(TAG, "Show Log4");
         Log.i(TAG, "Show Log5");
+        Log.i(TAG, "Show Log");
+        Log.i(TAG, "Show Log2");
+        Log.i(TAG, "Show Log3");
+        Log.i(TAG, "Show Log4");
+        Log.i(TAG, "Show Log5");
         Log.i(TAG, "Show Log6");
+
+        Log.i(TAG, "Show Log7");
     }
 }
