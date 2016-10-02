@@ -26,5 +26,7 @@ public class ActivityParn extends AppCompatActivity {
         Log.i(TAG, "Show Log6");
 
         Log.i(TAG, "Show Log7");
+
+        Log.i(TAG, "Show PARN");
     }
 }
