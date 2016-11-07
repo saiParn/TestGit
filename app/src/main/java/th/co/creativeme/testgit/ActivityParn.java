@@ -27,6 +27,8 @@ public class ActivityParn extends AppCompatActivity {
 
         Log.i(TAG, "Show Log7");
 
+        Log.i(TAG, "onCreate: ");
+
         Log.i(TAG, "Show PARN");
     }
 }
